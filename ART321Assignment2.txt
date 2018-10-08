@@ -1,0 +1,18 @@
+﻿Cat: Threshold 159
+	to get the whiskers of the cat to clearly show up along with the white patch in it's face and chest.
+
+threshold1: level = 1
+This way the text appears white and stands out from the black background
+
+Paper: Threshold 123
+	109 - 137 still have the text clearly visible with the background appearing white.
+	I found that 123 allowed for the whitest background while leaving the text easily visible but any threshold within that range would still accomplish mostly the same thing
+
+coulours:
+	used photoshop to create the quares. The eyedropper tool was used along with HSB sliders to choose the colour for each circle by changing the Hue slider while keeping the others the same.
+	note that the "greyscale" function in photoshop messes up the image so that it looks wrong but if opened in gimp and the "desaturate" tool is used it looks like it should.
+
+
+Sheet Music: used gimp. "edge sobel" tool to find the edges and then inverted the couours to change black and white so that it resembles the original
+		int the enhanced image you can see that the text is much harder to read than in the original and the scribbles in pen afret the second Vcl. blends in with the note before it and the rest after making it hard to tell what is going on there.
+		while this image is "enhanced" I find the original sheet music far easier to read because without the notes cououred in they are far harder to distinguish from one and other (eg. quarter vs. half note...)
