@@ -11,6 +11,13 @@ body h1{
 	margin-bottom: 50px;
 }
 
+body h2{
+	text-align: center;
+	color: #80ff80;
+	margin-top: 5%;
+	margin-bottom: 1%;
+}
+
 body p{
 	text-align: center;
 	width: 50%;
